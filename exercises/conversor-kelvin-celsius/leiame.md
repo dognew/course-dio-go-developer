@@ -1,4 +1,4 @@
-# Conversor Kelvin para Celsius
+# Conversor Kelvin para Celsius [:us:](readme.md)
 
 Este software é um exercício de [Treinamento DIO de Go Developer](https://dio.me/sign-up?ref=615HKOBZ22)
 
