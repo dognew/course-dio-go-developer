@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	// 373.2 = ebolição da água em kelvin
-	// A fórmula é: C = K - 273
+	// Boiling point of water in Kelvin: 373.2
+	// Conversion formula for Celsius: Celsius = Kelvin - 273
 
 	var kebulicao float32 = 373.2
 	rcelsius := int(kebulicao - 273)
