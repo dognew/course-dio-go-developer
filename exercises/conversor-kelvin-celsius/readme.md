@@ -19,8 +19,8 @@ func main() {
 
 	var kebulicao float32 = 373.2
 	rcelsius := int(kebulicao - 273)
-	fmt.Print("\n###    Conversor de Kelvin para Celsius    ####\n\n")
-	fmt.Println("O ponto de ebulição da água em Celsius é:")
+	fmt.Print("\n###    Kelvin to Celsius Converter    ####\n\n")
+	fmt.Println("The boiling point of water in Celsius is:")
 	fmt.Printf("%d °C\n\n", rcelsius)
 }
 ~~~
